@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+table{
+	border-collapse:collapse;
+	text-align:center;
+	width:100%
+}
+th,td{
+	border:1px solid black;	
+}
